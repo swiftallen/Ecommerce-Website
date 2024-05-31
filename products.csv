@@ -1,0 +1,30 @@
+id,catid,pimg,pname,pnewprice,poldprice,star_rating1,star_rating2,star_rating3,star_rating4,star_rating5,reviews
+1,1,img/cat-1.jpg,Women's White T-Shirt,70,75,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,24
+2,1,img/cat1_1.jpg,Denim Jeans,49,54,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-21,fa fa-star text-primary mr-1,40
+3,1,img/cat1_2.jpg,Light Blue Jeans,25,30,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star-half-alt text-primary mr-1,far fa-star text-primary mr-2,37
+4,1,img/cat1_3.jpg,Grey T-Shirt,23,28,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star-half-alt text-primary mr-1,far fa-star text-primary mr-1,40
+5,1,img/cat1_4.jpg,Smiley T-Shirt,44,49,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,far fa-star text-primary mr-1,40
+6,1,img/cat1_5.jpg,Maroon T-Shirt,33,38,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star-half-alt text-primary mr-1,23
+7,1,img/cat1_6.jpg,Women's Black Top,61,66,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star-half-alt text-primary mr-1,31
+8,2,img/cat1_7.jpg,Blue Sweatshirt,28,33,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star-half-alt text-primary mr-1,far fa-star text-primary mr-1,24
+9,2,img/cat2_1.png,Brown Leather Slippers,38,63,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,30
+10,2,img/cat2_2.jpg,Brown Shoes,32,59,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-21,fa fa-star text-primary mr-1,27
+11,2,img/cat2_3.jpeg,Brown Heels,50,84,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star-half-alt text-primary mr-1,far fa-star text-primary mr-2,23
+12,2,img/cat2_4.jpg,Brown Leather Sandals,58,85,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star-half-alt text-primary mr-1,far fa-star text-primary mr-1,27
+13,2,img/cat2_5.jpeg,Sports Sandals,52,43,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,far fa-star text-primary mr-1,27
+14,2,img/cat2_6.jpg,Sports Shoes,41,99,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star-half-alt text-primary mr-1,28
+15,3,img/cat3_1.jpg,DSLR Camera,60,99,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,37
+16,3,img/cat3_2.jpg,Lamp,85,45,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-21,fa fa-star text-primary mr-1,36
+17,3,img/cat3_3.jpg,Smart Watch,81,52,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star-half-alt text-primary mr-1,far fa-star text-primary mr-2,34
+18,3,img/cat3_4.png,Laptop,74,82,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star-half-alt text-primary mr-1,far fa-star text-primary mr-1,40
+19,3,img/cat3_5.jpg,Mobile Phone,93,84,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,far fa-star text-primary mr-1,33
+20,3,img/cat3_6.jpg,Hair Dryer,73,98,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star-half-alt text-primary mr-1,39
+21,4,img/cat4_1.jpg,White Bread,62,89,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,24
+22,4,img/cat4_2.jpg,Potato,30,78,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-21,fa fa-star text-primary mr-1,36
+23,4,img/cat4_3.jpg,Eggs,26,89,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star-half-alt text-primary mr-1,far fa-star text-primary mr-2,22
+24,4,img/cat4_4.jpg,Tomato,72,59,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star-half-alt text-primary mr-1,far fa-star text-primary mr-1,33
+25,4,img/cat4_5.jpg,Onion,97,73,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,far fa-star text-primary mr-1,30
+26,4,img/cat4_6.jpg,Apple,53,77,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star-half-alt text-primary mr-1,35
+27,4,img/cat4_7.jpg,Mangoes,94,32,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star-half-alt text-primary mr-1,30
+28,4,img/cat4_8.jpg,Guava,66,39,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star-half-alt text-primary mr-1,far fa-star text-primary mr-1,26
+29,4,img/cat4_9.jpg,Grapes,65,74,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,fa fa-star text-primary mr-1,33
