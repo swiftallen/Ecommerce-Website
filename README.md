@@ -1,0 +1,1 @@
+A semi-functional e-commerce mockup website with admin panel and MySQL database, written in PHP, Javascript and BootStrap CSS.
